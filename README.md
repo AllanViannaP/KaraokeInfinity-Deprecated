@@ -1,5 +1,7 @@
 # Karaoke Infinity
-> Status: In development 🕒
+> Status: Deprecated⚠️
+
+This project has been replaced by the Node.js version available at: https://github.com/AllanViannaP/Karaoke-Infinity
 
 
 ## **About**:
